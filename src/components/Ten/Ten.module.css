@@ -1,0 +1,23 @@
+.ten {
+  padding: 20px 0;
+  text-align: center;
+  color: white;
+}
+
+.ten.nam {
+  background-color: skyblue;
+}
+
+.ten.nu {
+  background-color: pink;
+}
+
+.ten-dang-nhap {
+  height: 100px;
+  background-color: white;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 85px;
+}

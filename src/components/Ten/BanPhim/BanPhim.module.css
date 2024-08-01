@@ -1,0 +1,10 @@
+.ban-phim {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  padding: 20px 80px;
+}
+
+.ban-phim-item {
+  margin: 5px;
+  padding: 2px;
+}
